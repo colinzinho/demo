@@ -1,2 +1,4 @@
 # Du kannst Vergleichsmuster mit einem Schrägstrich (/) beenden, um ein Verzeichnis anzugeben.
 logs/
+# Ignoriere alle .pdf Dateien im doc/ Verzeichnis sowie allen Unterverzeichnissen.
+doc/**/*.pdr
