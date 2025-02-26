@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    color: #FADA7A;
+    background-color: #B1C29E;
+    padding: 1rem;
+}
